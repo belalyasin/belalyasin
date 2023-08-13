@@ -26,3 +26,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belalyasin&show_icons=true&locale=en" alt="belalyasin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belalyasin&" alt="belalyasin" /></p>
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/belalyasin/fruitmarket_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=belalyasin&repo=fruitmarket_app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fruitmarket_app" />
+</a>
+
+<a href="https://github.com/belalyasin/GemManagementProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=belalyasin&repo=GemManagementProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GemManagementProject" />
+</a>
