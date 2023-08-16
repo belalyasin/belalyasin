@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalyasin&label=Profile%20views&color=0e75b6&style=flat" alt="belalyasin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belalyasin" alt="belalyasin" /></a> </p>
+ // <p align="left"> 
+//<a href="https:github.com/ryo-ma/github-profile-trophy">
+//<img src="https://github-profile-trophy.vercel.app/?username=belalyasin" alt="belalyasin" />
+//</a> </p>
 
 <p align="left"> <a href="https://twitter.com/belal_2001_" target="blank"><img src="https://img.shields.io/twitter/follow/belal_2001_?logo=twitter&style=for-the-badge" alt="belal_2001_" /></a> </p>
 
