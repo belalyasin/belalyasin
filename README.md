@@ -11,13 +11,12 @@
 
 - 💬 Ask me about **Angular , Laravel**
 
-- 📫 How to reach me **belalabwhatb@gmail.com**
+- 📫 How to reach me **belalabwhatb2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/belal_2001_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belal_2001_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/belal-abu-hatab-284497195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belal-abu-hatab-284497195" height="30" width="40" /></a>
-<a href="https://instagram.com/belal_yassen.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="belal_yassen.18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
