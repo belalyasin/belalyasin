@@ -1,42 +1,29 @@
-<h1 align="center">Hi 👋, I'm Belal Abu Hatab</h1>
-<h3 align="center">Back-End Developer& Front-End Developer</h3>
+# Hi, I'm Belal Abu Hatab
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=belalyasin&label=Profile%20views&color=0e75b6&style=flat" alt="belalyasin" /> </p>
+Full stack developer based in Gaza, Palestine. I build web applications end to end: Laravel or Node.js APIs on the back end, Angular on the front end, and MySQL or MongoDB underneath.
 
+I'm open to remote roles and freelance projects.
 
-- 💬 Ask me about **Front-end Skills, Back-end Skills**
+## Selected projects
 
-- 📫 How to reach me **belalabwhatb2@gmail.com**
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Technical Support System](https://github.com/belalyasin/technical-support-system-api) | REST API for a support chat system, with token auth and role-based permissions | Laravel 11, Sanctum, MySQL |
+| [Expense Management API](https://github.com/belalyasin/expense-management-api) | Expense tracking API with categories and monthly statistics | Node.js, Express, MongoDB, JWT |
+| [Image Manager](https://github.com/belalyasin/image-manager-api) | API and [Angular front end](https://github.com/belalyasin/image-manager-frontend) for organising images into folders, with tags and Google sign-in | Node.js, Express, MongoDB, Angular |
+| [Fruit Market](https://github.com/belalyasin/fruit-market) | Admin panel and mobile API for a fruit shop: catalogue, cart, orders, OTP sign-up | Laravel 10, Sanctum, MySQL |
+| [Gym Management System](https://github.com/belalyasin/gym-management-system) | Packages, sessions, coaches and attendance, with Stripe payments | Laravel 9, MySQL |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/belal_2001_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belal_2001_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/belal-abu-hatab-284497195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belal-abu-hatab-284497195" height="30" width="40" /></a>
-</p>
+## What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Back end:** PHP, Laravel, Node.js, Express, REST APIs
+- **Front end:** Angular, TypeScript, JavaScript, Vue, Bootstrap, Tailwind CSS
+- **Data:** MySQL, MongoDB, PostgreSQL, Supabase
+- **Mobile:** React Native (Expo)
+- **Tools:** Git, GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belalyasin&show_icons=true&locale=en&layout=compact" alt="belalyasin" /></p>
+## Contact
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=belalyasin&show_icons=true&locale=en" alt="belalyasin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belalyasin&" alt="belalyasin" /></p>
-
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/belalyasin/fruitmarket_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=belalyasin&repo=fruitmarket_app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="fruitmarket_app" />
-</a>
-
-<a href="https://github.com/belalyasin/GemManagementProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=belalyasin&repo=GemManagementProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GemManagementProject" />
-</a>
-<a href="https://github.com/belalyasin/ImageManegarBackEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=belalyasin&repo=ImageManegarBackEnd&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ImageManegarBackEnd" />
-</a>
-<a href="https://github.com/belalyasin/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=belalyasin&repo=portfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="portfolio" />
-</a>
+- Email: belalabwhatb2@gmail.com
+- LinkedIn: [linkedin.com/in/belal-abu-hatab](https://www.linkedin.com/in/belal-abu-hatab)
+- Portfolio: [belalyasin.github.io/portfolio](https://belalyasin.github.io/portfolio/)
