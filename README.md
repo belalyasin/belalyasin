@@ -9,7 +9,7 @@ I'm open to remote roles and freelance projects.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Technical Support System](https://github.com/belalyasin/technical-support-system-api) | REST API for a support chat system, with token auth and role-based permissions | Laravel 11, Sanctum, MySQL |
-| [Expense Management API](https://github.com/belalyasin/expense-management-api) | Expense tracking API with categories and monthly statistics | Node.js, Express, MongoDB, JWT |
+| [Expense Management](https://github.com/belalyasin/expense-management-api) | Expense tracker: REST API and [Angular client](https://github.com/belalyasin/expense-management-angular) with a dashboard, categories and monthly statistics | Node.js, Express, MongoDB, Angular |
 | [Image Manager](https://github.com/belalyasin/image-manager-api) | API and [Angular front end](https://github.com/belalyasin/image-manager-frontend) for organising images into folders, with tags and Google sign-in | Node.js, Express, MongoDB, Angular |
 | [Fruit Market](https://github.com/belalyasin/fruit-market) | Admin panel and mobile API for a fruit shop: catalogue, cart, orders, OTP sign-up | Laravel 10, Sanctum, MySQL |
 | [Gym Management System](https://github.com/belalyasin/gym-management-system) | Packages, sessions, coaches and attendance, with Stripe payments | Laravel 9, MySQL |
