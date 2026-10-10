@@ -13,7 +13,7 @@ I'm open to remote roles and freelance projects.
 | [Image Manager](https://github.com/belalyasin/image-manager-api) | API and [Angular front end](https://github.com/belalyasin/image-manager-frontend) for organising images into folders, with tags and Google sign-in | Node.js, Express, MongoDB, Angular |
 | [Fruit Market](https://github.com/belalyasin/fruit-market) | Admin panel and mobile API for a fruit shop: catalogue, cart, orders, OTP sign-up | Laravel 10, Sanctum, MySQL |
 | [Gym Management System](https://github.com/belalyasin/gym-management-system) | Packages, sessions, coaches and attendance, with Stripe payments | Laravel 9, MySQL |
-| [Chat System](https://github.com/belalyasin/chat-system) | One-to-one chat with unread counts and messages that arrive without reloading | Laravel 10, Inertia.js, Vue 3 |
+| [Chat System](https://github.com/belalyasin/chat-system) | One-to-one and group chat with unread counts and messages that arrive without reloading | Laravel 10, Inertia.js, Vue 3 |
 
 ## What I work with
 
